@@ -1,7 +1,10 @@
 ### Hi there 👋
-[LinkedIn](https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%9D%B4-57ba58210)
-[Tistroy](https://skypotato-note.tistory.com)
-[Naver Blog](https://blog.naver.com/hunsooski)
+
+
+### Connect here👈
+- [LinkedIn](https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%9D%B4-57ba58210)
+- [Tistroy](https://skypotato-note.tistory.com)
+- [Naver Blog](https://blog.naver.com/hunsooski)
 <!--
 **skypotato/skypotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
