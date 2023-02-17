@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="759" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="741" class="">
     <defs>
         <style/>
     </defs>
@@ -344,18 +344,13 @@
                                 <div class="bar" style="width: 0.1708620336364926%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
-                            <div class="entry">
-                                <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.1614047255016314%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2023, 20:15:16 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Feb 2023, 21:34:09 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
