@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![Metrics](https://github.com/skypotato/skypotato/blob/main/github-metrics.svg)
 
 ### Hi there 👋
-Welecome to skypotato's repository ~~
+Welecome to skypotato's repository!
 
 ### Connect here👈
 - [Notion](https://skypotato.notion.site/afd9831a547049abba023720431826f2)
